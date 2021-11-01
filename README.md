@@ -1,0 +1,9 @@
+- 👋 Bliss, I’m @VictorBlockchain
+- 👀 I’m a hyper creative, still learning self taught coder.
+- 🌱 I’m a writer, creator of crypto rap. bitcoin hidden in rap lyrics ...
+- 💞️ I launched the 1st crypto for video games Gamerholic coin ...
+- 📫 How to reach me ...
+
+<!---
+In this repository you'll find my creators
+--->
